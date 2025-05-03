@@ -708,11 +708,11 @@ input, select, textarea {
 		.image.logo {
 			display: block;
 			margin: 2.5rem 0;
-			width: 20%;
+			width: 50%;
 		}
 
 			.image.logo img {
-				width: 20%;
+				width: 50%;
 			}
 
 
